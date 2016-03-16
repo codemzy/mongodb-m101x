@@ -6,6 +6,7 @@
     "name": "codemzy"
   },
   "dependencies": {
+    "mocha": "^2.4.5",
     "mongodb": "~2.1.7",
     "underscore": "~1.5.2"
   },
