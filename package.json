@@ -1,0 +1,18 @@
+{
+  "name": "m101x-shoppingcart",
+  "description": "A shopping cart app built for m101x mean stack course",
+  "version": "1.0.0",
+  "author": {
+    "name": "codemzy"
+  },
+  "dependencies": {
+    "mongodb": "~2.1.7",
+    "underscore": "~1.5.2"
+  },
+  "engines": {
+    "node": "4.2.4"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
